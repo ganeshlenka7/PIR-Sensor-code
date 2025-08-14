@@ -37,10 +37,7 @@ Automatic lighting
 Intrusion detection
 
 Circuit Diagram
-![PIR Motion Sensor Circuit Diagram](images/PIR-Sensor%20Circuit%20diagram.png)
-
-
-(Place PIR_Circuit_Diagram.png in the same repo folder as this README)
+![PIR Motion Sensor Circuit Diagram](PIR-Sensor%20Circuit%20diagram.png)
 
 YouTube Demonstration
 

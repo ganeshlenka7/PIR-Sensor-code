@@ -1,4 +1,4 @@
-int pir=9;
+int pir=7;
 int led=13;
 void setup()
 {

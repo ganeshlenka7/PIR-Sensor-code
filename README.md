@@ -41,4 +41,4 @@ Circuit Diagram
 
 YouTube Demonstration
 
-🔗 Watch the project in action on YouTube
+🔗 Watch the project in action on YouTube https://youtube.com/shorts/GoTx8Sd9DbE?si=oakKCZQWvTtLhamk

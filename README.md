@@ -37,7 +37,7 @@ Automatic lighting
 Intrusion detection
 
 Circuit Diagram
-![PIR Motion Sensor Circuit Diagram](C:\Users\ocdga\Desktop\images\PIR-Sensor Circuit diagram.png)
+![PIR Motion Sensor Circuit Diagram](images/PIR-Sensor%20Circuit%20diagram.png)
 
 
 (Place PIR_Circuit_Diagram.png in the same repo folder as this README)
